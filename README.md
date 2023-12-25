@@ -10,5 +10,5 @@
      > - 👉 Exercise
      > - 👉 Solution of Exercise
     
-- ## Chapter 2
+- ## Chapter 2 Working with Variables and Parameters
      > - 👉 
