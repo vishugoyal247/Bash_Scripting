@@ -9,7 +9,6 @@
      > - 👉 Finding Help About Scripting Components
      > - 👉 Exercise
      > - 👉 Solution of Exercise
-    
 - ## Chapter 2 Working with Variables and Parameters
      > - 👉 About Terminology
      > - 👉 Using and Defining Variables
@@ -22,5 +21,14 @@
      > - 👉 Using Command Substitution
      > - 👉 String Verification
      > - 👉 Using Here Documents
+     > - 👉 Exercise
+     > - 👉 Solution of Exercise
+- ## Chapter 3 Transforming Inputs
+     > - 👉 Working with substitution operator
+     > - 👉 Using pattern matching operator
+     > - 👉 Understanding Regular Expression
+     > - 👉 Greneric regular expression parsing == grep
+     > - 👉 Calculating
+     > - 👉 BC calculation
      > - 👉 Exercise
      > - 👉 Solution of Exercise
